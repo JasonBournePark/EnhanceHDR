@@ -1,10 +1,6 @@
 # EnhanceHDR
 Generation of High Dynamic Range Illumination from a Single Image  for the Enhancement of Undesirably Illuminated Images
 
-<p align="center">
-<img src="/Paper_Images/Figure1_block_diagram.png" width="700"> 
-</p>
-
 ## Abstract
 
 This paper presents an image enhancement method for undesirably illuminated images,
@@ -20,3 +16,7 @@ illumination-equalized image is constructed by employing a tone fusion
 method that blends the multi-exposure images, where we also
 propose a method to generate appropriate weight maps for our
 pseudo multi-exposure images.
+
+<p align="center">
+<img src="/Paper_Images/Figure1_block_diagram.png" width="700"> 
+</p>
