@@ -34,18 +34,20 @@ pseudo multi-exposure images.
 <img src="/Paper_Images/Figure_Exp_Rst_BL2.png" width="700"> 
 </p>
 
-##### Results for the image.From top left to bottom right: input image, result of CLAHE, CVC, MSR, FbEM,	LIME, NPEA and proposed method.
+##### [Results for the image.From top left to bottom right: input image, result of CLAHE, CVC, MSR, FbEM,	LIME, NPEA and proposed method.]
 
 #### Test images of low light conditions
 <p align="center">
 <img src="/Paper_Images/Figure_Exp_Rst_Low1.png" width="700"> 
 <img src="/Paper_Images/Figure_Exp_Rst_Low2.png" width="700"> 
 </p>
-##### Results for the image. From top left to bottom right: input image, result of CLAHE, CVC, MSR, FbEM,	LIME, NPEA and proposed method.
+
+##### [Results for the image. From top left to bottom right: input image, result of CLAHE, CVC, MSR, FbEM,	LIME, NPEA and proposed method.]
 
 #### Test images of low light conditions
 <p align="center">
 <img src="/Paper_Images/Figure_Exp_Rst_NonUni.png" width="700"> 
 </p>
-##### Results for the image. From top left to bottom right: input image, result of CLAHE, CVC, MSR, FbEM,	LIME, NPEA and proposed method.
+
+##### [Results for the image. From top left to bottom right: input image, result of CLAHE, CVC, MSR, FbEM,	LIME, NPEA and proposed method.]
 
