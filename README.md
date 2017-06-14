@@ -26,6 +26,11 @@ pseudo multi-exposure images.
 </p>
 
 
+## Related Works
+##### Naturalness Preserved Enhancement Algorithm for Non-Uniform Illumination Images <paper-button> <a href="http://ieeexplore.ieee.org/document/6512558/">Link</a> </paper-button>
+
+
+
 ## Experimental Results
 
 #### Result #1 for test images of backlighting conditions
