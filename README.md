@@ -24,3 +24,24 @@ pseudo multi-exposure images.
 <p align="center">
 <img src="/Paper_Images/Figure1_block_diagram.png" width="700"> 
 </p>
+
+
+## Experimental Results
+
+#### Test images of backlighting conditions
+<p align="center">
+<img src="/Paper_Images/Figure_Exp_Rst_BL1.png" width="700"> 
+<img src="/Paper_Images/Figure_Exp_Rst_BL2.png" width="700"> 
+</p>
+
+#### Test images of low light conditions
+<p align="center">
+<img src="/Paper_Images/Figure_Exp_Rst_Low1.png" width="700"> 
+<img src="/Paper_Images/Figure_Exp_Rst_Low2.png" width="700"> 
+</p>
+
+#### Test images of low light conditions
+<p align="center">
+<img src="/Paper_Images/Figure_Exp_Rst_NonUni.png" width="700"> 
+</p>
+
