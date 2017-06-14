@@ -28,7 +28,7 @@ pseudo multi-exposure images.
 
 ## Experimental Results
 
-#### Test images of backlighting conditions
+#### Result #1 for test images of backlighting conditions
 <p align="center">
 <img src="/Paper_Images/Figure_Exp_Rst_BL1.png" width="700"> 
 <img src="/Paper_Images/Figure_Exp_Rst_BL2.png" width="700"> 
@@ -36,7 +36,7 @@ pseudo multi-exposure images.
 
 ##### [Results for the image.From top left to bottom right: input image, result of CLAHE, CVC, MSR, FbEM,	LIME, NPEA and proposed method.]
 
-#### Test images of low light conditions
+#### Result #2 for test images of low light conditions
 <p align="center">
 <img src="/Paper_Images/Figure_Exp_Rst_Low1.png" width="700"> 
 <img src="/Paper_Images/Figure_Exp_Rst_Low2.png" width="700"> 
@@ -44,7 +44,7 @@ pseudo multi-exposure images.
 
 ##### [Results for the image. From top left to bottom right: input image, result of CLAHE, CVC, MSR, FbEM,	LIME, NPEA and proposed method.]
 
-#### Test images of low light conditions
+#### Result #3 for a test image of low light conditions
 <p align="center">
 <img src="/Paper_Images/Figure_Exp_Rst_NonUni.png" width="700"> 
 </p>
