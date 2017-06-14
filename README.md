@@ -2,7 +2,7 @@
 
 # EnhanceHDR
 Generation of High Dynamic Range Illumination from a Single Image  for the Enhancement of Undesirably Illuminated Images
-
+<br><br>
 
 ## Abstract
 
@@ -20,17 +20,18 @@ method that blends the multi-exposure images, where we also
 propose a method to generate appropriate weight maps for our
 pseudo multi-exposure images.
 
-
 <p align="center">
 <img src="/Paper_Images/Figure1_block_diagram.png" width="700"> 
 </p>
-
+<br><br>
+<br><br>
 
 ## Related Works
-#### [NPEA] Naturalness Preserved Enhancement Algorithm for Non-Uniform Illumination Images <paper-button> <a href="http://ieeexplore.ieee.org/document/6512558/">Link</a> </paper-button>
-#### [FbEM] A fusion-based enhancing method for weakly illuminated images <paper-button> <a href="http://www.sciencedirect.com/science/article/pii/S0165168416300949">Link</a> </paper-button>
-#### [LIME] LIME: Low-Light Image Enhancement via Illumination Map Estimation <paper-button> <a href="http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7782813">Link</a> </paper-button>
-
+##### [NPEA] Naturalness Preserved Enhancement Algorithm for Non-Uniform Illumination Images <paper-button> <a href="http://ieeexplore.ieee.org/document/6512558/">Link</a> </paper-button>
+##### [FbEM] A fusion-based enhancing method for weakly illuminated images <paper-button> <a href="http://www.sciencedirect.com/science/article/pii/S0165168416300949">Link</a> </paper-button>
+##### [LIME] LIME: Low-Light Image Enhancement via Illumination Map Estimation <paper-button> <a href="http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7782813">Link</a> </paper-button>
+<br><br>
+<br><br>
 
 ## Experimental Results
 
