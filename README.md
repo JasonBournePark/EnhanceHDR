@@ -2,7 +2,7 @@
 Generation of High Dynamic Range Illumination from a Single Image  for the Enhancement of Undesirably Illuminated Images
 
 <p align="center">
-<img src="/Paper_Images/Figure1_block_diagram.png.png" width="700"> 
+<img src="/Paper_Images/Figure1_block_diagram.png" width="700"> 
 </p>
 
 ## Abstract
