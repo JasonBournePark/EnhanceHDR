@@ -27,7 +27,7 @@ pseudo multi-exposure images.
 
 
 ## Related Works
-##### Naturalness Preserved Enhancement Algorithm for Non-Uniform Illumination Images <paper-button> <a href="http://ieeexplore.ieee.org/document/6512558/">Link</a> </paper-button>
+##### [NPEA] Naturalness Preserved Enhancement Algorithm for Non-Uniform Illumination Images <paper-button> <a href="http://ieeexplore.ieee.org/document/6512558/">Link</a> </paper-button>
 
 
 
