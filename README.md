@@ -8,7 +8,7 @@ Generation of High Dynamic Range Illumination from a Single Image  for the Enhan
 
 This paper presents an image enhancement method for undesirably illuminated images,
 which is basically a single image high dynamic range (HDR) imaging method.
-<To be disclosed>
+*To be disclosed
 
 <p align="center">
 <img src="/Paper_Images/Figure1_block_diagram.png" width="700"> 
