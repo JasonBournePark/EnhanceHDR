@@ -1,14 +1,14 @@
 
 
 # EnhanceHDR
-Generation of High Dynamic Range Illumination from a Single Image  for the Enhancement of Undesirably Illuminated Images
+Generation of High Dynamic Range Illumination from a Single Image for the Enhancement of Undesirably Illuminated Images
 <br><br>
 
 ## Abstract
 
-This paper presents an image enhancement method for undesirably illuminated images,
-which is basically a single image high dynamic range (HDR) imaging method.
-*To be disclosed
+This paper presents an algorithm that enhances undesirably illuminated images by generating and fusing multi-level illuminations from a single image. The input image is first decomposed into illumination and reflectance components by using an edge-preserving smoothing filter. Then the reflectance component is scaled up to improve the image details in bright areas. The illumination component is scaled up and down to generate several illumination images that correspond to certain camera exposure values different from the original. The virtual multi-exposure illuminations are blended into an enhanced illumination, where we also propose a method to generate appropriate
+weight maps for the tone fusion. Finally, an enhanced image is obtained by multiplying the equalized illumination and enhanced reflectance. Experiments show that the proposed algorithm produces visually pleasing output and also yields comparable objective results to the conventional enhancement methods, while requiring modest computational loads.
+
 <br><br>
 <br><br>
 
