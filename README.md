@@ -4,6 +4,12 @@
 Generation of High Dynamic Range Illumination from a Single Image for the Enhancement of Undesirably Illuminated Images
 <br><br>
 
+# Progress and status of this paper to be publish as an Journal
+- 2017.07.31 - Submitted.
+- 2017.08.02 - The full version of this paper will be disclosed at arXiv.org (Processing...)
+
+<br><br>
+
 ## Abstract
 
 This paper presents an algorithm that enhances undesirably illuminated images by generating and fusing multi-level illuminations from a single image. The input image is first decomposed into illumination and reflectance components by using an edge-preserving smoothing filter. Then the reflectance component is scaled up to improve the image details in bright areas. The illumination component is scaled up and down to generate several illumination images that correspond to certain camera exposure values different from the original. The virtual multi-exposure illuminations are blended into an enhanced illumination, where we also propose a method to generate appropriate
