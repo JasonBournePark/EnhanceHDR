@@ -1,10 +1,10 @@
 
 
-# EnhanceHDR
+# Paper Title
 Generation of High Dynamic Range Illumination from a Single Image for the Enhancement of Undesirably Illuminated Images
 <br><br>
 
-# Progress and status of this paper to be publish as an Journal
+## Progress and status of this paper to be publish as an Journal
 - 2017.07.31 - Submitted.
 - 2017.08.02 - The full version of this paper will be disclosed at arXiv.org (Processing...)
 
