@@ -7,7 +7,8 @@ Generation of High Dynamic Range Illumination from a Single Image for the Enhanc
 ## Progress and status of the paper to be published as a Journal
 - 2017.07.31 - Submitted to a journal.
 - 2017.08.02 - Uploading a full version of the paper at arXiv.org (will be disclosed in a day)
-- 2017.08.03 - A full version of the paper (https://arxiv.org/abs/1708.00636) [Notice] Some of the contents can be different with the submitted paper for a journal.
+- 2017.08.03 - A full version of the paper is disclosed at https://arxiv.org/abs/1708.00636 
+[Notice] Some of the contents can be different with the submitted paper for a journal.
 
 <br><br>
 
